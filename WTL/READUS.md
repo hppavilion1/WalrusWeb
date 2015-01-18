@@ -4,4 +4,4 @@ Newline is n]
 superscript is sup]
 subscript is sub]
 to change color, use color|r|g|b]
-That is all I have time for for now. 
+That is all I have time for for now.
